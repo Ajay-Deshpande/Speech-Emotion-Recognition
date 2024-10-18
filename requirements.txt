@@ -8,3 +8,6 @@ librosa
 resampy
 ipython
 scikit-learn
+opencv-python
+moviepy
+flask
